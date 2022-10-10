@@ -1,3 +1,6 @@
+This is a small fork of the Adapta-Nokto theme for Cinnamon desktop, all I did was grayscale most of the dark colors used in the theme so that it looks nice and black.
+Below is the original theme's README.md, with links to all the original stuff. Check out the original!!!
+
 ## Adapta-Nokto
 
 A dark theme based on Material Design Guidelines. Cinnamon, Metacity, GTK2, GTK3.18 and GTK3.22+ themes are included.
